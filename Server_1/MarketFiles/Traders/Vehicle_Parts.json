@@ -1,0 +1,19 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS",
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Vehicle_Parts",
+		"RFFS_HELIS_PARTS"
+    ],
+    "Items": {
+        "tirerepairkit": 1,
+        "canistergasoline": 1
+    }
+}

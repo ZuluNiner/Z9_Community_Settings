@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Grips",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_SAW_RIS_Grip_FDE",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 10,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 200,
+			"MinStockThreshold": 10,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_SAW_RIS_Grip_Black"]
+		},
+		{
+			"ClassName": "TF_AFG_RIS_Grip_FDE",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 10,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 200,
+			"MinStockThreshold": 10,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_AFG_RIS_Grip_Black"]
+		},
+		{
+			"ClassName": "TF_AFG_MLOCK_Grip_FDE",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 10,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 200,
+			"MinStockThreshold": 10,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_AFG_MLOCK_Grip_Black"]
+		},
+		{
+			"ClassName": "TF_BCM_MLOCK_Grip_FDE",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 10,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 200,
+			"MinStockThreshold": 10,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_BCM_MLOCK_Grip_Black"]
+		},
+		{
+			"ClassName": "TF_RVG_RIS_Grip_FDE",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 10,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 200,
+			"MinStockThreshold": 10,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_RVG_RIS_Grip_Black"]
+		},
+		{
+			"ClassName": "TF_OTs_14_Groza_Barrel_Grip",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 10,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 200,
+			"MinStockThreshold": 10,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

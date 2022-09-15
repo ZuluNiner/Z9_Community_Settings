@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG Safes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "mmg_armored_cabinet_grey",
+			"MaxPriceThreshold": 6500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_armored_cabinet_green",
+			"MaxPriceThreshold": 6500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_armored_cabinet_rusty",
+			"MaxPriceThreshold": 6500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_old_safe_green",
+			"MaxPriceThreshold": 5500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_old_safe_grey",
+			"MaxPriceThreshold": 5500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

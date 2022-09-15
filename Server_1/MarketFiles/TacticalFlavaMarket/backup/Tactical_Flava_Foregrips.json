@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Foregrips",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_ZenitRK1B25U_RIS_Grip",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Zenit_RK4_RIS_Grip",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

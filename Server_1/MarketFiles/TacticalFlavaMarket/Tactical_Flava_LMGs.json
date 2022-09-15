@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava LMGs",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_M240",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 1800,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_M249",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 1800,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+				{
+			"ClassName": "TF_PKP",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 1800,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_AEK999",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 1800,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_PKM",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 1800,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

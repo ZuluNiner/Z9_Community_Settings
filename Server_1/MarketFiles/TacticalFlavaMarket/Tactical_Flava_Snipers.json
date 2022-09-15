@@ -1,0 +1,118 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Snipers",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_M14_DMR",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_M14_EBR",
+				"TF_M14_STD"
+			]
+		},
+		{
+			"ClassName": "TF_Anzio20",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_M1A_Black",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_M1A_OD",
+				"TF_M1A_Tan"
+			]
+		},
+		{
+			"ClassName": "TF_MAR10",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_SCAR_20_FDE",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_SCAR_20_Black",
+				"TF_SCAR_20_Shd"
+			]
+		},
+		{
+			"ClassName": "TF_VPO190",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+				{
+			"ClassName": "TF_SR25",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+				{
+			"ClassName": "TF_SVCh308",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_SVCh",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

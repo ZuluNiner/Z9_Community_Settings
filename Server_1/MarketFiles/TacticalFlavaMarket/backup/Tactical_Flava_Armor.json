@@ -1,0 +1,409 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Armor",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_AVSBag_Coyote",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_AVSBag_Khaki"]
+		},
+		{
+			"ClassName": "TF_MAPBag_Khaki",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_MAPBag_Coyote"]
+		},
+		{
+			"ClassName": "TF_FannyPack_Coyote",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_6B47Helmet",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_6B47HelmetCover_EMR",
+				"TF_6B47HelmetCover_Syrian"
+			]
+		},
+		{
+			"ClassName": "TF_NVGoggles_AVS9",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_NVGoggles_PVS14",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_NVGoggles_PVS15",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_NVGoggles_PNV10T",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_PMK4GasMask",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_LSHZHelmet_OD",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Maska1Helmet",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Maska1Visor",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Maska1SchVisor",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_MICH2000Helmet",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_MICH2000Helmet_Black",
+				"TF_MICH2000Helmet_Khaku"
+			]
+		},
+		{
+			"ClassName": "TF_MICH2000HelmetCover_Woodland",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_WeldingMask_Tagilla",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_WeldingMask"]
+		},
+		{
+			"ClassName": "TF_AVSMag3Pouch_Coyote",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_AVSMag3Pouch_Khaki"]
+		},
+		{
+			"ClassName": "TF_FastMag3Pouch_Khaki",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_FastMag3Pouch_Coyote"]
+		},
+		{
+			"ClassName": "TF_AFAKMedPouch_Khaki",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_AFAKMedPouch_Coyote"]
+		},
+		{
+			"ClassName": "TF_AVSGren2Pouch_Coyote",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_AVSGren2Pouch_Khaki"]
+		},
+		{
+			"ClassName": "TF_3GrenPouch",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_3GrenPouch_Khaki"]
+		},
+		{
+			"ClassName": "TF_LargeUtilityPouch_Khaki",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_LargeUtilityPouch_Coyote"]
+		},
+		{
+			"ClassName": "TF_JPCMag3Pouch_Coyote",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_PlateCarrierVest_EMR",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_PlateCarrierVest_Coyote"]
+		},
+		{
+			"ClassName": "TF_PlateCarrierPouches_EMR",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_PlateCarrierPouches_Coyote"]
+		},
+		{
+			"ClassName": "TF_PlateCarrierHolster_EMR",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_PlateCarrierHolster_Coyote"]
+		},
+		{
+			"ClassName": "TF_6sh112_EMR",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_6sh112_Syrian"]
+		},
+		{
+			"ClassName": "TF_6B23_112Vest_GFlora",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_6B23_112Vest_EMR",
+				"TF_6B23_112Vest_EMR_Syrian",
+				"TF_6B23_112Vest_GFlora_Syrian"
+			]
+		},
+		{
+			"ClassName": "TF_6B23Vest_GFlora",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_6B23Vest_EMR"]
+		},
+		{
+			"ClassName": "TF_6B43Vest_EMR",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_6B43Vest_Syrian"]
+		},
+		{
+			"ClassName": "TF_6B43Vest_6sh112_EMR",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_6B43Vest_6sh112_Syrian",
+				"TF_6B43Vest_6sh112_EMR_Syrian",
+				"TF_6B43Vest_6sh112_Syrian_EMR"
+			]
+		},
+		{
+			"ClassName": "TF_AVSVest_Coyote",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_AVSVest_Tagilla"]
+		},
+		{
+			"ClassName": "TF_IMTVVest",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_IMTVVest_Khaki"]
+		},
+		{
+			"ClassName": "TF_JPCVest_MC",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_JPCVest_Coyote"]
+		},
+		{
+			"ClassName": "TF_LVMBAVVest_KH",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Pistols",
+        "Sniper_Rifles",
+        "Shotguns",
+        "Melee_Weapons",
+        "Ammo",
+        "Ammo_Boxes",
+		"Grenades",
+        "Knifes",
+		"Tactical_Flava_Assault_Rifles",
+		"Tactical_Flava_LMGs",
+		"Tactical_Flava_Snipers",
+		"Tactical_Flava_Submachine_Guns",
+		"Tactical_Flava_Ammo",
+		"Tactical_Flava_Grenades",
+		"Tactical_Flava_Pistols",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Optics:3",
+        "Buttstocks:3",
+        "Handguards:3",
+		"Tactical_Flava_Optics:3",
+		"Tactical_Flava_Buttstocks:3",
+		"Tactical_Flava_Grips:3",
+		"Tactical_Flava_Muzzles:3",
+		"Tactical_Flava_Magazines:3",
+		"Tactical_Flava_Bipods:3",
+		"Tactical_Flava_Compensators:3",
+		"Tactical_Flava_Foregrips:3",
+		"Tactical_Flava_Suppressors:3",
+		"Tactical_Flava_Handguards:3",
+		"Tactical_Flava_Pistol_Grips:3"
+    ],
+    "Items": {
+        "universallight": 3,
+        "tlrlight": 3
+    }
+}

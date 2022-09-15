@@ -1,0 +1,120 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG Weapon Racks",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "mmg_gun_rack_kit_blue",
+			"MaxPriceThreshold":  6500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_gun_rack_kit_green",
+			"MaxPriceThreshold": 6500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_gun_rack_kit_tan",
+			"MaxPriceThreshold": 6500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_lockable_gun_rack_kit_grey",
+			"MaxPriceThreshold": 6500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_equipment_locker_green_kit",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_equipment_locker_black_kit",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_equipment_locker_grey_kit",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_locker02_blue_kit",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_locker02_green_kit",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_locker02_tan_kit",
+			"MaxPriceThreshold": 8500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

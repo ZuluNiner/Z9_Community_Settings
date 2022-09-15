@@ -1,0 +1,19 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Helicopters",
+		"RFFS_HELIS",
+        "Vehicle_Parts:3",
+        "Batteries:3",
+		"RFFS_HELIS_PARTS:3"
+    ],
+    "Items": {}
+}

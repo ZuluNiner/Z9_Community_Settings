@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Compensators",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_PKM_6ch63Compensator",
+			"MaxPriceThreshold": 80,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 5,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_PKM_6ch76Compensator",
+			"MaxPriceThreshold": 80,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 5,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_AK_6p20Compensator",
+			"MaxPriceThreshold": 80,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 5,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_AK_ZenitDTK1Compensator",
+			"MaxPriceThreshold": 80,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 5,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_PKM_SAICompensator",
+			"MaxPriceThreshold": 80,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 5,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_PKM_6ch43Compensator",
+			"MaxPriceThreshold": 80,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 5,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

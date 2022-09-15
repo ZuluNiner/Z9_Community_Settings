@@ -1,0 +1,445 @@
+{
+	"m_Version": 3,
+	"EnableStatusTab": 1,
+	"EnablePartyTab": 1,
+	"EnableServerInfoTab": 1,
+	"EnableServerRulesTab": 1,
+	"EnableTerritoryTab": 0,
+	"EnableBookMenu": 1,
+	"CreateBookmarks": 0,
+	"RuleCategories": [{
+		"CategoryName": "General",
+		"Rules": [{
+				"RuleParagraph": "1.1.",
+				"RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
+			},
+			{
+				"RuleParagraph": "1.2.",
+				"RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
+			},
+			{
+				"RuleParagraph": "1.3.",
+				"RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
+			},
+			{
+				"RuleParagraph": "1.4.",
+				"RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+			},
+			{
+				"RuleParagraph": "1.5.",
+				"RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
+			},
+			{
+				"RuleParagraph": "1.6.",
+				"RuleText": "This is a NO KILL ON SIGHT server, that means try not to be hostile right away, give them a chance to give you a reason to be hostile."
+			}
+		]
+	}],
+	"DisplayServerSettingsInServerInfoTab": 1,
+	"ShowHaBStats": 1,
+	"SettingCategories": [{
+			"CategoryName": "Map Settings",
+			"Settings": [{
+					"SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+					"SettingText": "",
+					"SettingValue": ""
+				},
+				{
+					"SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+					"SettingText": "",
+					"SettingValue": ""
+				}
+			]
+		},
+		{
+			"CategoryName": "Party Settings",
+			"Settings": [{
+					"SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+					"SettingText": "",
+					"SettingValue": ""
+				},
+				{
+					"SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+					"SettingText": "",
+					"SettingValue": ""
+				}
+			]
+		}
+	],
+	"Links": [{
+			"Name": "Discord",
+			"URL": "https://discord.gg/DmfGSSDc8z",
+			"IconName": "Discord",
+			"IconColor": -9270822
+		},
+		{
+			"Name": "Steam",
+			"URL": "https://steamcommunity.com/id/zulu9r/",
+			"IconName": "Steam",
+			"IconColor": -14006434
+		}
+	],
+	"Descriptions": [{
+			"CategoryName": "General Info",
+			"Descriptions": [{
+				"DescriptionText": "Below you will find a list of all trader outposts and the traders that are at those outposts as well as a list of categories available at each trader. You will also find a list of the mods that are currently on this server and any special information that we feel is helpful to know. Please make sure to review the Server Rules on the previous page as violating these rules will likely result in admin intervention. If you require admin assistance or just want to come get to know us a little better you can join our Discord by clicking on the Discord logo to the left of this page. Be safe, play safe, have fun!"
+			}]
+		},
+		{
+			"CategoryName": "Trader Categories",
+			"Descriptions": [{
+					"DescriptionText": "AIRCRAFT: Helicopters - RFFS HELIS"
+				},
+				{
+					"DescriptionText": "ATTACHMENTS: Magazines - Muzzles - Bayonets - Optics - Buttstocks - Handguards - Tactical Flava Optics - Tactical Flava Buttstocks - Tactical Flava Grips - Tactical Flava Muzzles - Tactical Flava Magazines - Tactical Flava Bipods - Tactical Flava Compensators - Tactical Flava Foregrips - Tactical Flava Suppressors - Tactical Flava Handguards - Tactical Flava Pistol Grips"
+				},
+				{
+					"DescriptionText": "BUILDING SUPPLIES: Gardening - Tools - Supplies - Locks - Containers - Tents - Furnishings - Flags - BPP Kits - BPP Other"
+				},
+				{
+					"DescriptionText": "CLOTHING: Blouses And Suits - Coats And Jackets - Shirts And TShirts - Skirts And Dresses - Pants And Shorts - Boots And Shoes - Tactical Flava Clothing"
+				},
+				{
+					"DescriptionText": "CLOTHING ACCESSORIES: Helmets - Caps - Hats_And_Hoods - Armbands - Backpacks - Eyewear - Gloves - Bandanas - Masks - Vests - Holsters_And_Pouches - Ghillies - Belts - Tactical_Flava_Helmets - Tactical_Flava_Pouches - Tactical_Flava_Vests - Tactical_Flava_Visors"
+				},
+				{
+					"DescriptionText": "COMPONENTS: Tools - Supplies - Locks - Containers - Tents - Kits - Navigation - Electronics - Lights"
+				},
+				{
+					"DescriptionText": "CONSUMABLES: Drinks - Food - Fruit And Vegetables - Meat - Fish"
+				},
+				{
+					"DescriptionText": "EXCHANGE: Currency exchange"
+				},
+				{
+					"DescriptionText": "FISHING: Fishing supplies"
+				},
+				{
+					"DescriptionText": "MEDICALS: All medical supplies and First Aid Kit"
+				},
+				{
+					"DescriptionText": "SPECIAL: Explosives & Grenades - NV Goggles - 9V Batteries - Rangefinder - NVG Headstrap"
+				},
+				{
+					"DescriptionText": "SPRAYCANS: Expansion spraycans"
+				},
+				{
+					"DescriptionText": "VEHICLES: Cars & Trucks"
+				},
+				{
+					"DescriptionText": "VEHICLES PARTS: Car, Truck & Heli Parts"
+				},
+				{
+					"DescriptionText": "Weapons: Assault Rifles - Submachine Guns - Pistols - Sniper Rifles - Shotguns - Melee Weapons - Ammo - Ammo Boxes - Grenades - Knifes - Tactical Flava Assault Rifles - Tactical Flava LMGs - Tactical Flava Snipers - Tactical Flava Submachine Guns - Tactical Flava Ammo - Tactical Flava Grenades - Tactical Flava Pistols"
+				}
+			]
+		},
+		{
+			"CategoryName": "Balota Airfield (Aircraft)",
+			"Descriptions": [{
+					"DescriptionText": "Aircraft"
+				},
+				{
+					"DescriptionText": "Vehicle Parts"
+				}
+			]
+		},
+		{
+			"CategoryName": "Green Mountain (Zelenaya Gora)",
+			"Descriptions": [{
+					"DescriptionText": "Attachments"
+				},
+				{
+					"DescriptionText": "Building Supplies"
+				},
+				{
+					"DescriptionText": "Clothing"
+				},
+				{
+					"DescriptionText": "Clothing Accessories"
+				},
+				{
+					"DescriptionText": "Consumables"
+				},
+				{
+					"DescriptionText": "Components"
+				},
+				{
+					"DescriptionText": "Exchange"
+				},
+				{
+					"DescriptionText": "Medicals"
+				},
+				{
+					"DescriptionText": "Special"
+				},
+				{
+					"DescriptionText": "Vehicles"
+				},
+				{
+					"DescriptionText": "Vehicle Parts"
+				},
+				{
+					"DescriptionText": "Weapons"
+				}
+			]
+		},
+		{
+			"CategoryName": "Kamenka",
+			"Descriptions": [{
+					"DescriptionText": "Attachments"
+				},
+				{
+					"DescriptionText": "Boats"
+				},
+				{
+					"DescriptionText": "Building Supplies"
+				},
+				{
+					"DescriptionText": "Clothing"
+				},
+				{
+					"DescriptionText": "Clothing Accessories"
+				},
+				{
+					"DescriptionText": "Consumables"
+				},
+				{
+					"DescriptionText": "Components"
+				},
+				{
+					"DescriptionText": "Exchange"
+				},
+				{
+					"DescriptionText": "Medicals"
+				},
+				{
+					"DescriptionText": "Special"
+				},
+				{
+					"DescriptionText": "Vehicles"
+				},
+				{
+					"DescriptionText": "Vehicle Parts"
+				},
+				{
+					"DescriptionText": "Weapons"
+				}
+			]
+		},
+		{
+			"CategoryName": "Krasnostav Airstrip",
+			"Descriptions": [{
+					"DescriptionText": "Aircraft"
+				},
+				{
+					"DescriptionText": "Attachments"
+				},
+				{
+					"DescriptionText": "Building Supplies"
+				},
+				{
+					"DescriptionText": "Clothing"
+				},
+				{
+					"DescriptionText": "Clothing Accessories"
+				},
+				{
+					"DescriptionText": "Consumables"
+				},
+				{
+					"DescriptionText": "Components"
+				},
+				{
+					"DescriptionText": "Exchange"
+				},
+				{
+					"DescriptionText": "Medicals"
+				},
+				{
+					"DescriptionText": "Special"
+				},
+				{
+					"DescriptionText": "Vehicles"
+				},
+				{
+					"DescriptionText": "Vehicle Parts"
+				},
+				{
+					"DescriptionText": "Weapons"
+				}
+			]
+		},
+		{
+			"CategoryName": "Svetloyarsk (Boats & Fishing)",
+			"Descriptions": [{
+					"DescriptionText": "Boats"
+				},
+				{
+					"DescriptionText": "Fishing"
+				}
+			]
+		},
+		{
+			"CategoryName": "Mod Info",
+			"Descriptions": [{
+				"DescriptionText": "RedFalcon Flight System VS Expansion Helicopers: The expansion helicopters are much harder to fly and much less forgiving. The RFFS heli system has Recovery Mode enabled (Default is + on the numpad)."
+			},
+			{
+				"DescriptionText": "Car Covers: There are three types of car covers (Camo Cover, Camo Cover Civilian, and Camo Cover Winter) these can be applied to all vehicles including helicopters to hide them and prevent despawning."
+			},
+			{
+				"DescriptionText": "Simple run: You can toggle running or jogging by pressing the AutoRun key (Default + on the numpad)."
+			},
+			{
+				"DescriptionText": "Trader Only Items: Currently the following items are only available by purchasing through the trader system: Expansion Helicopters, Solar Panels, Working Dryer, Fridges"
+			}]
+		}
+	],
+	"CraftingCategories": [{
+			"CategoryName": "Accessories",
+			"Results": [
+				"armband_",
+				"armband_white"
+			]
+		},
+		{
+			"CategoryName": "Backpacks",
+			"Results": [
+				"courierbag",
+				"furcourierbag",
+				"furimprovisedbag",
+				"improvisedbag",
+				"leathersack_brown"
+			]
+		},
+		{
+			"CategoryName": "Base-Building",
+			"Results": [
+				"expansionbarbedwirekit",
+				"fencekit",
+				"expansionfloorkit",
+				"expansionhelipadkit",
+				"expansionhescokit",
+				"expansionrampkit",
+				"shelterkit",
+				"expansionstairkit",
+				"territoryflagkit",
+				"expansionwallkit",
+				"watchtowerkit"
+			]
+		},
+		{
+			"CategoryName": "Camouflage",
+			"Results": [
+				"camonet",
+				"ghillieatt_tan",
+				"ghillieatt_mossy",
+				"ghillieatt_woodland",
+				"ghilliebushrag_tan",
+				"ghilliebushrag_mossy",
+				"ghilliebushrag_woodland",
+				"ghilliehood_tan",
+				"ghilliehood_mossy",
+				"ghilliehood_woodland",
+				"ghilliesuit_tan",
+				"ghilliesuit_mossy",
+				"ghilliesuit_woodland",
+				"ghillietop_tan",
+				"ghillietop_mossy",
+				"ghillietop_woodland"
+			]
+		},
+		{
+			"CategoryName": "Cooking",
+			"Results": [
+				"fireplace",
+				"firewood",
+				"handdrillkit"
+			]
+		},
+		{
+			"CategoryName": "Fishing",
+			"Results": [
+				"bait",
+				"bonebait",
+				"bonehook",
+				"improvisedfishingrod"
+			]
+		},
+		{
+			"CategoryName": "Food",
+			"Results": [
+				"carpfilletmeat",
+				"mackerelfilletmeat",
+				"expansionmilkbottle",
+				"potato",
+				"slicedpumpkin"
+			]
+		},
+		{
+			"CategoryName": "Horticulture",
+			"Results": [
+				"pepperseeds",
+				"pumpkinseeds",
+				"tomatoseeds",
+				"zucchiniseeds"
+			]
+		},
+		{
+			"CategoryName": "Lights",
+			"Results": [
+				"longtorch",
+				"torch"
+			]
+		},
+		{
+			"CategoryName": "Medical Supplies",
+			"Results": [
+				"bloodbagiv",
+				"salinebagiv",
+				"splint"
+			]
+		},
+		{
+			"CategoryName": "Melee Weapons",
+			"Results": [
+				"nailedbaseballbat",
+				"stoneknife"
+			]
+		},
+		{
+			"CategoryName": "Storage",
+			"Results": [
+				"woodencrate"
+			]
+		},
+		{
+			"CategoryName": "Supplies",
+			"Results": [
+				"boarpelt",
+				"burlapsack",
+				"burlapstrip",
+				"longwoodenstick",
+				"expansionlumber1",
+				"expansionlumber1_5",
+				"expansionlumber3",
+				"nails",
+				"netting",
+				"rag",
+				"rope",
+				"sharpwoodenstick",
+				"smallstone",
+				"tannedleather",
+				"woodenplank",
+				"woodenstick"
+			]
+		},
+		{
+			"CategoryName": "Weapon Attachments",
+			"Results": [
+				"improvisedsuppressor"
+			]
+		}
+	]
+}

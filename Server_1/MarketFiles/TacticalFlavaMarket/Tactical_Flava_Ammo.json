@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Ammo",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_Ammo_20mm",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 15,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 200,
+			"MinStockThreshold": 10,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Ammo_20mm_HE",
+			"MaxPriceThreshold": 25,
+			"MinPriceThreshold": 20,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 5,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Ammo_338LM",
+			"MaxPriceThreshold": 8,
+			"MinPriceThreshold": 6,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Ammo_57",
+			"MaxPriceThreshold": 2,
+			"MinPriceThreshold": 1,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

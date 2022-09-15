@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG Gardening",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "mmg_planter_box_kit",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold":500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_greenhouse_kit",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold":500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 150,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

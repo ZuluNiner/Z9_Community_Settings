@@ -1,0 +1,93 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Helmets & Masks",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_6B47Helmet",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 75,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_6B47HelmetCover_EMR",
+				"TF_6B47HelmetCover_Syrian"
+			]
+		},
+		{
+			"ClassName": "TF_LSHZHelmet_OD",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 75,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_Maska1Helmet",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 75,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_MICH2000Helmet",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 75,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_MICH2000Helmet_Black",
+				"TF_MICH2000Helmet_Khaku"
+			]
+		},
+		{
+			"ClassName": "TF_PMK4GasMask",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 75,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_WeldingMask_Tagilla",
+			"MaxPriceThreshold": 150,
+			"MinPriceThreshold": 75,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TF_WeldingMask"]
+		},
+		{
+			"ClassName": "TF_MICH2000HelmetCover_Woodland",
+			"MaxPriceThreshold": 20,
+			"MinPriceThreshold": 15,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

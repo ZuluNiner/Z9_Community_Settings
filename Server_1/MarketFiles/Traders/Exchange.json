@@ -1,0 +1,15 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Exchange"
+    ],
+    "Items": {}
+}

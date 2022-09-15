@@ -1,0 +1,125 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tactical Flava Clothing",
+    "Icon": "Deliver",
+    "Color": "ffa424",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": 
+	[
+		{
+			"ClassName": "TF_CamelBakBag_Black",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_CamelBakBag_Brown",
+				"TF_CamelBakBag_EMR",
+				"TF_CamelBakBag_OD",
+				"TF_CamelBakBag_Tan"
+			]
+		},
+		{
+			"ClassName": "TF_RifleSling_Black",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_RifleSling_Brown",
+				"TF_RifleSling_OD"
+			]
+		},
+		{
+			"ClassName": "TF_Foil_hat",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "TF_6sh122Pants_Spring",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_6sh122Pants_Autumn",
+				"TF_6sh122Pants_Syrian",
+				"TF_6sh122Pants_Syrian_EMR",
+				"TF_6sh122Pants_Winter"
+			]
+		},
+		{
+			"ClassName": "TF_CargoPantsShort_Black",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_CargoPantsShort_MARPAT"
+			]
+		},
+		{
+			"ClassName": "TF_G3CombatPants_RG",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_G3CombatPants_MC",
+				"TF_G3CombatPants_WD"
+			]
+		},
+		{
+			"ClassName": "TF_6sh122Jacket_Spring",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_6sh122Jacket_Autumn",
+				"TF_6sh122Jacket_Syrian",
+				"TF_6sh122Jacket_Syrian_EMR",
+				"TF_6sh122Jacket_Winter"
+			]
+		},
+		{
+			"ClassName": "TF_G3CombatShirt_RG",
+			"MaxPriceThreshold": 10,
+			"MinPriceThreshold": 5,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"TF_G3CombatShirt_MC",
+				"TF_G3CombatShirt_WD"
+			]
+		}
+	]
+}
