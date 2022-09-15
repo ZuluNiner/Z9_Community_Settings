@@ -18,7 +18,13 @@
         "Furnishings",
         "Flags",
 		"BPP_Kits",
-		"BPP_Other"
+		"BPP_Other",
+		"MMG_Weapon_Racks",
+		"MMG_Safes",
+		"MMG_Cases",
+		"MMG_Gardening",
+		"MMG_Various",
+		"MMG_Crafts"
     ],
     "Items": {}
 }
